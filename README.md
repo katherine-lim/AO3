@@ -58,19 +58,19 @@
 >     To confirm the changes and update the code on your local system and packs it onto a box
 > - ***Fetch*** \
 >     To download commits, files, and refs from the remote repository onto the local repository
-> - ***GIT***
+> - ***GIT*** \
 >     The operator for all git commands in the command line
-> - ***GitHub***
+> - ***GitHub*** \
 >     The open source system where anyone can upload and track code and files
-> - ***Merge***
+> - ***Merge*** \
 >      To combine portions of code or files together into one
 > - ***Merge Conflict***
 >      A conflict between the remote repository having different code from the local repository code being merged in which it cannot be updated
-> - ***Push***
+> - ***Push*** \
 >      Sends the latest local repository saved changes and uploads them directly to the remote repository
-> - ***Pull***
+> - ***Pull*** \
 >      Checks the remote repository for any new changes and sends them to the local repository to update it
-> - ***Remote***
+> - ***Remote*** \
 >      The online repository that saves and publishes projects of code from the local repository 
-> - ***Repository***
+> - ***Repository*** \
 >      The workspace location of all the files for projects on both remote and local systems
