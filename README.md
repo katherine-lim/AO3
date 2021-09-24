@@ -14,4 +14,8 @@
 
 ## How to install Webstorm
 
-> For students, navigate to the [Webstorm webpage](https://git-scm.com/downloads)
+> For starters, navigate to the [Webstorm website](https://www.jetbrains.com/student/ "Webstorm webpage") and register a new account.
+> Then sign up with your school email and head to the [download page](https://git-scm.com/downloads "The download page for WebStorm").
+> Set up the installation to your preferences and download WebStorm. After Webstorm and GitHub are up and running, we can begin the setup for connecting your GitHub to WebStorm.
+
+> 
